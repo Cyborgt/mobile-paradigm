@@ -1,0 +1,80 @@
+.exit{ font-style: italic;
+margin-top: 20%;
+	margin-left:45%; 
+	position: absolute;
+	font-family: cursive;
+	font-size: 30px;
+	color: dodgerblue;
+}
+
+.topnav{text-align:center;
+  font-size: 60px;
+    color: #333;	
+    position:center;
+    border-color: black;
+	margin-top: 5%;
+	padding: 10px 50px 10px 50px;
+}
+
+.midnav{text-align:center;
+	font-size: 30px;
+	  color: #333;
+	  border: 2px black;
+	  border-radius: 15px;
+	  padding-top: 10px;
+	  padding-bottom: 10px;
+	  padding-left: 10px;
+	  padding-right: 10px;
+	  position:center;
+		background-color:dodgerblue;
+	  border-color: black;
+	  margin-left: auto;
+	  margin-right: auto;
+	  margin-top: 80px;
+	  margin-bottom: 80px;
+	  max-width: 270px;
+  }
+
+  .midnav2{text-align:center;
+	font-size: 30px;
+	  color: #333;
+	  border: 2px black;
+	  border-radius: 15px;
+	  padding-top: 10px;
+	  padding-bottom: 10px;
+	  padding-left: 10px;
+	  padding-right: 10px;
+	  position:center;
+		background-color:dodgerblue;
+	  border-color: black;
+	  margin-left: auto;
+	  margin-right: auto;
+	  margin-top: 80px;
+	  margin-bottom: 80px;
+	  max-width: 270px;
+  }
+
+.midnav3{text-align:center;
+  font-size: 30px;
+    color: #333;
+	border: 2px black;
+	border-radius: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+    position:center;
+  	background-color:dodgerblue;
+    border-color: black;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 80px;
+	margin-bottom: 80px;
+	max-width: 270px;
+}
+
+.footer {text-align:center;
+  font-size: 50px;
+    color: #333;
+	position:center;	
+}
