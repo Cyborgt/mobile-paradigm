@@ -17,7 +17,7 @@
 	  padding-left: 10px;
 	  padding-right: 10px;
 	  position:center;
-		background-color:dodgerblue;
+	  background-color:dodgerblue;
 	  border-color: black;
 	  margin-left: auto;
 	  margin-right: auto;
@@ -36,7 +36,7 @@
 	  padding-left: 10px;
 	  padding-right: 10px;
 	  position:center;
-		background-color:dodgerblue;
+	  background-color:dodgerblue;
 	  border-color: black;
 	  margin-left: auto;
 	  margin-right: auto;
@@ -68,4 +68,42 @@
   font-size: 50px;
     color: #333;
 	position:center;	
+}
+
+{
+    margin:0;
+    padding:0;  
+}
+
+h2 {
+    font-size:30px;
+    color: #66CCFF;
+    font-family: Calibri Light (Headings);
+}
+
+form{
+    margin:40px;
+}
+
+label{
+    font-family: Calibri Light (Headings);
+}
+
+input{
+    font-family: Calibri Light (Headings);
+    width:300px;
+    padding: 10px;
+}
+.exit{
+	text-align: center;
+	text-size-adjust: 50;
+}
+.register{
+    background: url(photo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-size:20px;
+	color: #66CCFF;
+	background-size: 100%;
 }
